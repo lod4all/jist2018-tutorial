@@ -1,596 +1,596 @@
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix jist: jist:jist2018-tutorial/jist_ap-json.ttl#> .
 
-
-<https://lod4all.github.io/9> dc:identifier "9" ;
+jist:9 dc:identifier "9" ;
 	dc:subject "Research Track" ;
-	dc:creator <https://lod4all.github.io/Elham+Andarodi> ;
+	dc:creator jist:Elham+Andarodi ;
 	dc:title "Ontology-based Semantic Representation of Spatial Configuration: Shape Grammar for Caravanserai Architectural Heritage" .
 
-<https://lod4all.github.io/Elham+Andarodi> rdf:label "Elham Andarodi" .
+jist:Elham+Andarodi rdf:label "Elham Andarodi" .
 
-<https://lod4all.github.io/9> dc:identifier "9" ;
-	dc:creator <https://lod4all.github.io/Frederic+Andres> .
+jist:9 dc:identifier "9" ;
+	dc:creator jist:Frederic+Andres .
 
-<https://lod4all.github.io/Frederic+Andres> rdf:label "Frederic Andres" .
+jist:Frederic+Andres rdf:label "Frederic Andres" .
 
-<https://lod4all.github.io/16> dc:identifier "16" ;
+jist:16 dc:identifier "16" ;
 	dc:subject "Research Track" ;
-	dc:creator <https://lod4all.github.io/Denis+Ponomaryov> ;
+	dc:creator jist:Denis+Ponomaryov ;
 	dc:title "DeFind: A Protege Plugin for Computing Concept Definitions in EL Ontologies" .
 
-<https://lod4all.github.io/Denis+Ponomaryov> rdf:label "Denis Ponomaryov" .
+jist:Denis+Ponomaryov rdf:label "Denis Ponomaryov" .
 
-<https://lod4all.github.io/16> dc:identifier "16" ;
-	dc:creator <https://lod4all.github.io/Stepan+Yakovenko> .
+jist:16 dc:identifier "16" ;
+	dc:creator jist:Stepan+Yakovenko .
 
-<https://lod4all.github.io/Stepan+Yakovenko> rdf:label "Stepan Yakovenko" .
+jist:Stepan+Yakovenko rdf:label "Stepan Yakovenko" .
 
-<https://lod4all.github.io/18> dc:identifier "18" ;
+jist:18 dc:identifier "18" ;
 	dc:subject "Research Track" ;
-	dc:creator <https://lod4all.github.io/Ricardo+Soares> ;
+	dc:creator jist:Ricardo+Soares ;
 	dc:title "Knowledge Driven Intelligent Survey SystemS for Linguists" .
 
-<https://lod4all.github.io/Ricardo+Soares> rdf:label "Ricardo Soares" .
+jist:Ricardo+Soares rdf:label "Ricardo Soares" .
 
-<https://lod4all.github.io/18> dc:identifier "18" ;
-	dc:creator <https://lod4all.github.io/Jeff+Z.+Pan> .
+jist:18 dc:identifier "18" ;
+	dc:creator jist:Jeff+Z.+Pan .
 
-<https://lod4all.github.io/Jeff+Z.+Pan> rdf:label "Jeff Z. Pan" .
+jist:Jeff+Z.+Pan rdf:label "Jeff Z. Pan" .
 
-<https://lod4all.github.io/18> dc:identifier "18" ;
-	dc:creator <https://lod4all.github.io/Elspeth+Edelstein> .
+jist:18 dc:identifier "18" ;
+	dc:creator jist:Elspeth+Edelstein .
 
-<https://lod4all.github.io/Elspeth+Edelstein> rdf:label "Elspeth Edelstein" .
+jist:Elspeth+Edelstein rdf:label "Elspeth Edelstein" .
 
-<https://lod4all.github.io/18> dc:identifier "18" ;
-	dc:creator <https://lod4all.github.io/Adam+Wyner> .
+jist:18 dc:identifier "18" ;
+	dc:creator jist:Adam+Wyner .
 
-<https://lod4all.github.io/Adam+Wyner> rdf:label "Adam Wyner" .
+jist:Adam+Wyner rdf:label "Adam Wyner" .
 
-<https://lod4all.github.io/19> dc:identifier "19" ;
+jist:19 dc:identifier "19" ;
 	dc:subject "Research Track" ;
-	dc:creator <https://lod4all.github.io/Kemas+Wiharja> ;
+	dc:creator jist:Kemas+Wiharja ;
 	dc:title "More is Better: Sequential combinations of knowledge graph embedding approaches" .
 
-<https://lod4all.github.io/Kemas+Wiharja> rdf:label "Kemas Wiharja" .
+jist:Kemas+Wiharja rdf:label "Kemas Wiharja" .
 
-<https://lod4all.github.io/19> dc:identifier "19" ;
-	dc:creator <https://lod4all.github.io/Jeff+Z.+Pan> .
+jist:19 dc:identifier "19" ;
+	dc:creator jist:Jeff+Z.+Pan .
 
-<https://lod4all.github.io/Jeff+Z.+Pan> rdf:label "Jeff Z. Pan" .
+jist:Jeff+Z.+Pan rdf:label "Jeff Z. Pan" .
 
-<https://lod4all.github.io/19> dc:identifier "19" ;
-	dc:creator <https://lod4all.github.io/Martin+Kollingbaum> .
+jist:19 dc:identifier "19" ;
+	dc:creator jist:Martin+Kollingbaum .
 
-<https://lod4all.github.io/Martin+Kollingbaum> rdf:label "Martin Kollingbaum" .
+jist:Martin+Kollingbaum rdf:label "Martin Kollingbaum" .
 
-<https://lod4all.github.io/19> dc:identifier "19" ;
-	dc:creator <https://lod4all.github.io/Yu+Deng> .
+jist:19 dc:identifier "19" ;
+	dc:creator jist:Yu+Deng .
 
-<https://lod4all.github.io/Yu+Deng> rdf:label "Yu Deng" .
+jist:Yu+Deng rdf:label "Yu Deng" .
 
-<https://lod4all.github.io/20> dc:identifier "20" ;
+jist:20 dc:identifier "20" ;
 	dc:subject "Research Track" ;
-	dc:creator <https://lod4all.github.io/Daniel+Mercier> ;
+	dc:creator jist:Daniel+Mercier ;
 	dc:title "Unified Access to Data Sources using an Ontology" .
 
-<https://lod4all.github.io/Daniel+Mercier> rdf:label "Daniel Mercier" .
+jist:Daniel+Mercier rdf:label "Daniel Mercier" .
 
-<https://lod4all.github.io/20> dc:identifier "20" ;
-	dc:creator <https://lod4all.github.io/Hyunmin+Cheong> .
+jist:20 dc:identifier "20" ;
+	dc:creator jist:Hyunmin+Cheong .
 
-<https://lod4all.github.io/Hyunmin+Cheong> rdf:label "Hyunmin Cheong" .
+jist:Hyunmin+Cheong rdf:label "Hyunmin Cheong" .
 
-<https://lod4all.github.io/20> dc:identifier "20" ;
-	dc:creator <https://lod4all.github.io/Chaitanya+Tapaswi> .
+jist:20 dc:identifier "20" ;
+	dc:creator jist:Chaitanya+Tapaswi .
 
-<https://lod4all.github.io/Chaitanya+Tapaswi> rdf:label "Chaitanya Tapaswi" .
+jist:Chaitanya+Tapaswi rdf:label "Chaitanya Tapaswi" .
 
-<https://lod4all.github.io/24> dc:identifier "24" ;
+jist:24 dc:identifier "24" ;
 	dc:subject "Research Track" ;
-	dc:creator <https://lod4all.github.io/Rub%C3%A9n+Francisco+Manrique> ;
+	dc:creator jist:Rub%C3%A9n+Francisco+Manrique ;
 	dc:title "Knowledge Graph-based Core Concept Identification in Learning Resources" .
 
-<https://lod4all.github.io/Rub%C3%A9n+Francisco+Manrique> rdf:label "Rubén Francisco Manrique" .
+jist:Rub%C3%A9n+Francisco+Manrique rdf:label "Rubén Francisco Manrique" .
 
-<https://lod4all.github.io/24> dc:identifier "24" ;
-	dc:creator <https://lod4all.github.io/Christian+Gr%C3%A9visse> .
+jist:24 dc:identifier "24" ;
+	dc:creator jist:Christian+Gr%C3%A9visse .
 
-<https://lod4all.github.io/Christian+Gr%C3%A9visse> rdf:label "Christian Grévisse" .
+jist:Christian+Gr%C3%A9visse rdf:label "Christian Grévisse" .
 
-<https://lod4all.github.io/24> dc:identifier "24" ;
-	dc:creator <https://lod4all.github.io/Olga+Marino> .
+jist:24 dc:identifier "24" ;
+	dc:creator jist:Olga+Marino .
 
-<https://lod4all.github.io/Olga+Marino> rdf:label "Olga Marino" .
+jist:Olga+Marino rdf:label "Olga Marino" .
 
-<https://lod4all.github.io/24> dc:identifier "24" ;
-	dc:creator <https://lod4all.github.io/Steffen+Rothkugel> .
+jist:24 dc:identifier "24" ;
+	dc:creator jist:Steffen+Rothkugel .
 
-<https://lod4all.github.io/Steffen+Rothkugel> rdf:label "Steffen Rothkugel" .
+jist:Steffen+Rothkugel rdf:label "Steffen Rothkugel" .
 
-<https://lod4all.github.io/27> dc:identifier "27" ;
+jist:27 dc:identifier "27" ;
 	dc:subject "Research Track" ;
-	dc:creator <https://lod4all.github.io/Liang+Zhang> ;
+	dc:creator jist:Liang+Zhang ;
 	dc:title "Incorporating text into the triple context for knowledge graph embedding (Short Paper)" .
 
-<https://lod4all.github.io/Liang+Zhang> rdf:label "Liang Zhang" .
+jist:Liang+Zhang rdf:label "Liang Zhang" .
 
-<https://lod4all.github.io/27> dc:identifier "27" ;
-	dc:creator <https://lod4all.github.io/Jun+Shi> .
+jist:27 dc:identifier "27" ;
+	dc:creator jist:Jun+Shi .
 
-<https://lod4all.github.io/Jun+Shi> rdf:label "Jun Shi" .
+jist:Jun+Shi rdf:label "Jun Shi" .
 
-<https://lod4all.github.io/27> dc:identifier "27" ;
-	dc:creator <https://lod4all.github.io/Guilin+Qi> .
+jist:27 dc:identifier "27" ;
+	dc:creator jist:Guilin+Qi .
 
-<https://lod4all.github.io/Guilin+Qi> rdf:label "Guilin Qi" .
+jist:Guilin+Qi rdf:label "Guilin Qi" .
 
-<https://lod4all.github.io/27> dc:identifier "27" ;
-	dc:creator <https://lod4all.github.io/Weizhuo+Li> .
+jist:27 dc:identifier "27" ;
+	dc:creator jist:Weizhuo+Li .
 
-<https://lod4all.github.io/Weizhuo+Li> rdf:label "Weizhuo Li" .
+jist:Weizhuo+Li rdf:label "Weizhuo Li" .
 
-<https://lod4all.github.io/30> dc:identifier "30" ;
+jist:30 dc:identifier "30" ;
 	dc:subject "Research Track" ;
-	dc:creator <https://lod4all.github.io/Weizhuo+Li> ;
+	dc:creator jist:Weizhuo+Li ;
 	dc:title "A graph-based method for interactive mapping revision" .
 
-<https://lod4all.github.io/Weizhuo+Li> rdf:label "Weizhuo Li" .
+jist:Weizhuo+Li rdf:label "Weizhuo Li" .
 
-<https://lod4all.github.io/30> dc:identifier "30" ;
-	dc:creator <https://lod4all.github.io/Songmao+Zhang> .
+jist:30 dc:identifier "30" ;
+	dc:creator jist:Songmao+Zhang .
 
-<https://lod4all.github.io/Songmao+Zhang> rdf:label "Songmao Zhang" .
+jist:Songmao+Zhang rdf:label "Songmao Zhang" .
 
-<https://lod4all.github.io/30> dc:identifier "30" ;
-	dc:creator <https://lod4all.github.io/Guilin+Qi> .
+jist:30 dc:identifier "30" ;
+	dc:creator jist:Guilin+Qi .
 
-<https://lod4all.github.io/Guilin+Qi> rdf:label "Guilin Qi" .
+jist:Guilin+Qi rdf:label "Guilin Qi" .
 
-<https://lod4all.github.io/30> dc:identifier "30" ;
-	dc:creator <https://lod4all.github.io/Xuefeng+Fu> .
+jist:30 dc:identifier "30" ;
+	dc:creator jist:Xuefeng+Fu .
 
-<https://lod4all.github.io/Xuefeng+Fu> rdf:label "Xuefeng Fu" .
+jist:Xuefeng+Fu rdf:label "Xuefeng Fu" .
 
-<https://lod4all.github.io/30> dc:identifier "30" ;
-	dc:creator <https://lod4all.github.io/Qiu+Ji> .
+jist:30 dc:identifier "30" ;
+	dc:creator jist:Qiu+Ji .
 
-<https://lod4all.github.io/Qiu+Ji> rdf:label "Qiu Ji" .
+jist:Qiu+Ji rdf:label "Qiu Ji" .
 
-<https://lod4all.github.io/32> dc:identifier "32" ;
+jist:32 dc:identifier "32" ;
 	dc:subject "Research Track" ;
-	dc:creator <https://lod4all.github.io/Johannes+F%C3%A4hndrich> ;
+	dc:creator jist:Johannes+F%C3%A4hndrich ;
 	dc:title "A Marker Passing Approach to Winograd Schemas" .
 
-<https://lod4all.github.io/Johannes+F%C3%A4hndrich> rdf:label "Johannes Fähndrich" .
+jist:Johannes+F%C3%A4hndrich rdf:label "Johannes Fähndrich" .
 
-<https://lod4all.github.io/32> dc:identifier "32" ;
-	dc:creator <https://lod4all.github.io/Sabine+Weber> .
+jist:32 dc:identifier "32" ;
+	dc:creator jist:Sabine+Weber .
 
-<https://lod4all.github.io/Sabine+Weber> rdf:label "Sabine Weber" .
+jist:Sabine+Weber rdf:label "Sabine Weber" .
 
-<https://lod4all.github.io/32> dc:identifier "32" ;
-	dc:creator <https://lod4all.github.io/Hannes+Kanthak> .
+jist:32 dc:identifier "32" ;
+	dc:creator jist:Hannes+Kanthak .
 
-<https://lod4all.github.io/Hannes+Kanthak> rdf:label "Hannes Kanthak" .
+jist:Hannes+Kanthak rdf:label "Hannes Kanthak" .
 
-<https://lod4all.github.io/42> dc:identifier "42" ;
+jist:42 dc:identifier "42" ;
 	dc:subject "Research Track" ;
-	dc:creator <https://lod4all.github.io/Phuc+Nguyen> ;
+	dc:creator jist:Phuc+Nguyen ;
 	dc:title "EmbNum: Semantic Labeling for Numerical Values with Deep Metric Learning" .
 
-<https://lod4all.github.io/Phuc+Nguyen> rdf:label "Phuc Nguyen" .
+jist:Phuc+Nguyen rdf:label "Phuc Nguyen" .
 
-<https://lod4all.github.io/42> dc:identifier "42" ;
-	dc:creator <https://lod4all.github.io/Khai+Nguyen> .
+jist:42 dc:identifier "42" ;
+	dc:creator jist:Khai+Nguyen .
 
-<https://lod4all.github.io/Khai+Nguyen> rdf:label "Khai Nguyen" .
+jist:Khai+Nguyen rdf:label "Khai Nguyen" .
 
-<https://lod4all.github.io/42> dc:identifier "42" ;
-	dc:creator <https://lod4all.github.io/Ryutaro+Ichise> .
+jist:42 dc:identifier "42" ;
+	dc:creator jist:Ryutaro+Ichise .
 
-<https://lod4all.github.io/Ryutaro+Ichise> rdf:label "Ryutaro Ichise" .
+jist:Ryutaro+Ichise rdf:label "Ryutaro Ichise" .
 
-<https://lod4all.github.io/42> dc:identifier "42" ;
-	dc:creator <https://lod4all.github.io/Hideaki+Takeda> .
+jist:42 dc:identifier "42" ;
+	dc:creator jist:Hideaki+Takeda .
 
-<https://lod4all.github.io/Hideaki+Takeda> rdf:label "Hideaki Takeda" .
+jist:Hideaki+Takeda rdf:label "Hideaki Takeda" .
 
-<https://lod4all.github.io/43> dc:identifier "43" ;
+jist:43 dc:identifier "43" ;
 	dc:subject "Research Track" ;
-	dc:creator <https://lod4all.github.io/Taneth+Ruangrajitpakorn> ;
+	dc:creator jist:Taneth+Ruangrajitpakorn ;
 	dc:title "Automatic Ontology Development from Semi-structured Data in Web-Portal: Towards Ontology of Thai Rice Knowledge" .
 
-<https://lod4all.github.io/Taneth+Ruangrajitpakorn> rdf:label "Taneth Ruangrajitpakorn" .
+jist:Taneth+Ruangrajitpakorn rdf:label "Taneth Ruangrajitpakorn" .
 
-<https://lod4all.github.io/43> dc:identifier "43" ;
-	dc:creator <https://lod4all.github.io/Rachada+Kongkachandra> .
+jist:43 dc:identifier "43" ;
+	dc:creator jist:Rachada+Kongkachandra .
 
-<https://lod4all.github.io/Rachada+Kongkachandra> rdf:label "Rachada Kongkachandra" .
+jist:Rachada+Kongkachandra rdf:label "Rachada Kongkachandra" .
 
-<https://lod4all.github.io/43> dc:identifier "43" ;
-	dc:creator <https://lod4all.github.io/Pokpong+Songmuang> .
+jist:43 dc:identifier "43" ;
+	dc:creator jist:Pokpong+Songmuang .
 
-<https://lod4all.github.io/Pokpong+Songmuang> rdf:label "Pokpong Songmuang" .
+jist:Pokpong+Songmuang rdf:label "Pokpong Songmuang" .
 
-<https://lod4all.github.io/43> dc:identifier "43" ;
-	dc:creator <https://lod4all.github.io/Thepchai+Supnithi> .
+jist:43 dc:identifier "43" ;
+	dc:creator jist:Thepchai+Supnithi .
 
-<https://lod4all.github.io/Thepchai+Supnithi> rdf:label "Thepchai Supnithi" .
+jist:Thepchai+Supnithi rdf:label "Thepchai Supnithi" .
 
-<https://lod4all.github.io/44> dc:identifier "44" ;
+jist:44 dc:identifier "44" ;
 	dc:subject "Research Track" ;
-	dc:creator <https://lod4all.github.io/Christian+Vogelgesang> ;
+	dc:creator jist:Christian+Vogelgesang ;
 	dc:title "SPARQλ: A functional perspective on Linked Data Services" .
 
-<https://lod4all.github.io/Christian+Vogelgesang> rdf:label "Christian Vogelgesang" .
+jist:Christian+Vogelgesang rdf:label "Christian Vogelgesang" .
 
-<https://lod4all.github.io/44> dc:identifier "44" ;
-	dc:creator <https://lod4all.github.io/Torsten+Spieldenner> .
+jist:44 dc:identifier "44" ;
+	dc:creator jist:Torsten+Spieldenner .
 
-<https://lod4all.github.io/Torsten+Spieldenner> rdf:label "Torsten Spieldenner" .
+jist:Torsten+Spieldenner rdf:label "Torsten Spieldenner" .
 
-<https://lod4all.github.io/44> dc:identifier "44" ;
-	dc:creator <https://lod4all.github.io/Ren%C3%A9+Schubotz> .
+jist:44 dc:identifier "44" ;
+	dc:creator jist:Ren%C3%A9+Schubotz .
 
-<https://lod4all.github.io/Ren%C3%A9+Schubotz> rdf:label "René Schubotz" .
+jist:Ren%C3%A9+Schubotz rdf:label "René Schubotz" .
 
-<https://lod4all.github.io/51> dc:identifier "51" ;
+jist:51 dc:identifier "51" ;
 	dc:subject "Research Track" ;
-	dc:creator <https://lod4all.github.io/Wai-Howe+Khong> ;
+	dc:creator jist:Wai-Howe+Khong ;
 	dc:title "Leveraging Part-of-Speech Tagging for Sentiment Analysis in Short Texts and Regular Texts" .
 
-<https://lod4all.github.io/Wai-Howe+Khong> rdf:label "Wai-Howe Khong" .
+jist:Wai-Howe+Khong rdf:label "Wai-Howe Khong" .
 
-<https://lod4all.github.io/51> dc:identifier "51" ;
-	dc:creator <https://lod4all.github.io/Lay-Ki+Soon> .
+jist:51 dc:identifier "51" ;
+	dc:creator jist:Lay-Ki+Soon .
 
-<https://lod4all.github.io/Lay-Ki+Soon> rdf:label "Lay-Ki Soon" .
+jist:Lay-Ki+Soon rdf:label "Lay-Ki Soon" .
 
-<https://lod4all.github.io/51> dc:identifier "51" ;
-	dc:creator <https://lod4all.github.io/Hui-Ngo+Goh> .
+jist:51 dc:identifier "51" ;
+	dc:creator jist:Hui-Ngo+Goh .
 
-<https://lod4all.github.io/Hui-Ngo+Goh> rdf:label "Hui-Ngo Goh" .
+jist:Hui-Ngo+Goh rdf:label "Hui-Ngo Goh" .
 
-<https://lod4all.github.io/51> dc:identifier "51" ;
-	dc:creator <https://lod4all.github.io/Su-Cheng+Haw> .
+jist:51 dc:identifier "51" ;
+	dc:creator jist:Su-Cheng+Haw .
 
-<https://lod4all.github.io/Su-Cheng+Haw> rdf:label "Su-Cheng Haw" .
+jist:Su-Cheng+Haw rdf:label "Su-Cheng Haw" .
 
-<https://lod4all.github.io/54> dc:identifier "54" ;
+jist:54 dc:identifier "54" ;
 	dc:subject "Research Track" ;
-	dc:creator <https://lod4all.github.io/Man+Zhu> ;
+	dc:creator jist:Man+Zhu ;
 	dc:title "Predicate Invention Based RDF Data Compression (Short Paper)" .
 
-<https://lod4all.github.io/Man+Zhu> rdf:label "Man Zhu" .
+jist:Man+Zhu rdf:label "Man Zhu" .
 
-<https://lod4all.github.io/54> dc:identifier "54" ;
-	dc:creator <https://lod4all.github.io/Weixin+Wu> .
+jist:54 dc:identifier "54" ;
+	dc:creator jist:Weixin+Wu .
 
-<https://lod4all.github.io/Weixin+Wu> rdf:label "Weixin Wu" .
+jist:Weixin+Wu rdf:label "Weixin Wu" .
 
-<https://lod4all.github.io/54> dc:identifier "54" ;
-	dc:creator <https://lod4all.github.io/Jingyu+Han> .
+jist:54 dc:identifier "54" ;
+	dc:creator jist:Jingyu+Han .
 
-<https://lod4all.github.io/Jingyu+Han> rdf:label "Jingyu Han" .
+jist:Jingyu+Han rdf:label "Jingyu Han" .
 
-<https://lod4all.github.io/54> dc:identifier "54" ;
-	dc:creator <https://lod4all.github.io/Jeff+Z.+Pan> .
+jist:54 dc:identifier "54" ;
+	dc:creator jist:Jeff+Z.+Pan .
 
-<https://lod4all.github.io/Jeff+Z.+Pan> rdf:label "Jeff Z. Pan" .
+jist:Jeff+Z.+Pan rdf:label "Jeff Z. Pan" .
 
-<https://lod4all.github.io/79> dc:identifier "79" ;
+jist:79 dc:identifier "79" ;
 	dc:subject "Research Track" ;
-	dc:creator <https://lod4all.github.io/Jianfeng+Du> ;
+	dc:creator jist:Jianfeng+Du ;
 	dc:title "Ranking Diagnoses for Inconsistent Knowledge Graphs by Representation Learning" .
 
-<https://lod4all.github.io/Jianfeng+Du> rdf:label "Jianfeng Du" .
+jist:Jianfeng+Du rdf:label "Jianfeng Du" .
 
-<https://lod4all.github.io/80> dc:identifier "80" ;
+jist:80 dc:identifier "80" ;
 	dc:subject "Research Track" ;
-	dc:creator <https://lod4all.github.io/Biralatei+J.+Fawei> ;
+	dc:creator jist:Biralatei+J.+Fawei ;
 	dc:title "A Criminal Law and Procedure Ontology for Legal Question Answering" .
 
-<https://lod4all.github.io/Biralatei+J.+Fawei> rdf:label "Biralatei J. Fawei" .
+jist:Biralatei+J.+Fawei rdf:label "Biralatei J. Fawei" .
 
-<https://lod4all.github.io/80> dc:identifier "80" ;
-	dc:creator <https://lod4all.github.io/Jeff+Z.+Pan> .
+jist:80 dc:identifier "80" ;
+	dc:creator jist:Jeff+Z.+Pan .
 
-<https://lod4all.github.io/Jeff+Z.+Pan> rdf:label "Jeff Z. Pan" .
+jist:Jeff+Z.+Pan rdf:label "Jeff Z. Pan" .
 
-<https://lod4all.github.io/80> dc:identifier "80" ;
-	dc:creator <https://lod4all.github.io/Martin+J.+Kollingbaum> .
+jist:80 dc:identifier "80" ;
+	dc:creator jist:Martin+J.+Kollingbaum .
 
-<https://lod4all.github.io/Martin+J.+Kollingbaum> rdf:label "Martin J. Kollingbaum" .
+jist:Martin+J.+Kollingbaum rdf:label "Martin J. Kollingbaum" .
 
-<https://lod4all.github.io/80> dc:identifier "80" ;
-	dc:creator <https://lod4all.github.io/Adam+Z.+Wyner> .
+jist:80 dc:identifier "80" ;
+	dc:creator jist:Adam+Z.+Wyner .
 
-<https://lod4all.github.io/Adam+Z.+Wyner> rdf:label "Adam Z. Wyner" .
+jist:Adam+Z.+Wyner rdf:label "Adam Z. Wyner" .
 
-<https://lod4all.github.io/83> dc:identifier "83" ;
+jist:83 dc:identifier "83" ;
 	dc:subject "Research Track" ;
-	dc:creator <https://lod4all.github.io/Ognjen+Savkovic> ;
+	dc:creator jist:Ognjen+Savkovic ;
 	dc:title "Semantic Diagnostics of Smart Factories" .
 
-<https://lod4all.github.io/Ognjen+Savkovic> rdf:label "Ognjen Savkovic" .
+jist:Ognjen+Savkovic rdf:label "Ognjen Savkovic" .
 
-<https://lod4all.github.io/83> dc:identifier "83" ;
-	dc:creator <https://lod4all.github.io/Evgeny+Kharlamov> .
+jist:83 dc:identifier "83" ;
+	dc:creator jist:Evgeny+Kharlamov .
 
-<https://lod4all.github.io/Evgeny+Kharlamov> rdf:label "Evgeny Kharlamov" .
+jist:Evgeny+Kharlamov rdf:label "Evgeny Kharlamov" .
 
-<https://lod4all.github.io/85> dc:identifier "85" ;
+jist:85 dc:identifier "85" ;
 	dc:subject "Research Track" ;
-	dc:creator <https://lod4all.github.io/Ahmet+Soylu> ;
+	dc:creator jist:Ahmet+Soylu ;
 	dc:title "Making Complex Ontologies End-User Accessible via Ontology Projections (Short Paper)" .
 
-<https://lod4all.github.io/Ahmet+Soylu> rdf:label "Ahmet Soylu" .
+jist:Ahmet+Soylu rdf:label "Ahmet Soylu" .
 
-<https://lod4all.github.io/85> dc:identifier "85" ;
-	dc:creator <https://lod4all.github.io/Evgeny+Kharlamov> .
+jist:85 dc:identifier "85" ;
+	dc:creator jist:Evgeny+Kharlamov .
 
-<https://lod4all.github.io/Evgeny+Kharlamov> rdf:label "Evgeny Kharlamov" .
+jist:Evgeny+Kharlamov rdf:label "Evgeny Kharlamov" .
 
-<https://lod4all.github.io/87> dc:identifier "87" ;
+jist:87 dc:identifier "87" ;
 	dc:subject "Research Track" ;
-	dc:creator <https://lod4all.github.io/Takuto+Asakura> ;
+	dc:creator jist:Takuto+Asakura ;
 	dc:title "A Quantitative Evaluation of Natural Language Question Interpretation for Question Answering Systems" .
 
-<https://lod4all.github.io/Takuto+Asakura> rdf:label "Takuto Asakura" .
+jist:Takuto+Asakura rdf:label "Takuto Asakura" .
 
-<https://lod4all.github.io/87> dc:identifier "87" ;
-	dc:creator <https://lod4all.github.io/Jin-Dong+Kim> .
+jist:87 dc:identifier "87" ;
+	dc:creator jist:Jin-Dong+Kim .
 
-<https://lod4all.github.io/Jin-Dong+Kim> rdf:label "Jin-Dong Kim" .
+jist:Jin-Dong+Kim rdf:label "Jin-Dong Kim" .
 
-<https://lod4all.github.io/87> dc:identifier "87" ;
-	dc:creator <https://lod4all.github.io/Yasunori+Yamamoto> .
+jist:87 dc:identifier "87" ;
+	dc:creator jist:Yasunori+Yamamoto .
 
-<https://lod4all.github.io/Yasunori+Yamamoto> rdf:label "Yasunori Yamamoto" .
+jist:Yasunori+Yamamoto rdf:label "Yasunori Yamamoto" .
 
-<https://lod4all.github.io/87> dc:identifier "87" ;
-	dc:creator <https://lod4all.github.io/Yuka+Tateisi> .
+jist:87 dc:identifier "87" ;
+	dc:creator jist:Yuka+Tateisi .
 
-<https://lod4all.github.io/Yuka+Tateisi> rdf:label "Yuka Tateisi" .
+jist:Yuka+Tateisi rdf:label "Yuka Tateisi" .
 
-<https://lod4all.github.io/87> dc:identifier "87" ;
-	dc:creator <https://lod4all.github.io/Toshihisa+Takagi> .
+jist:87 dc:identifier "87" ;
+	dc:creator jist:Toshihisa+Takagi .
 
-<https://lod4all.github.io/Toshihisa+Takagi> rdf:label "Toshihisa Takagi" .
+jist:Toshihisa+Takagi rdf:label "Toshihisa Takagi" .
 
-<https://lod4all.github.io/91> dc:identifier "91" ;
+jist:91 dc:identifier "91" ;
 	dc:subject "Research Track" ;
-	dc:creator <https://lod4all.github.io/Vidar+Klungre> ;
+	dc:creator jist:Vidar+Klungre ;
 	dc:title "On Enhancing Visual Query Building Over KGs Using Query Logs (Short Paper)" .
 
-<https://lod4all.github.io/Vidar+Klungre> rdf:label "Vidar Klungre" .
+jist:Vidar+Klungre rdf:label "Vidar Klungre" .
 
-<https://lod4all.github.io/91> dc:identifier "91" ;
-	dc:creator <https://lod4all.github.io/Ahmet+Soylu> .
+jist:91 dc:identifier "91" ;
+	dc:creator jist:Ahmet+Soylu .
 
-<https://lod4all.github.io/Ahmet+Soylu> rdf:label "Ahmet Soylu" .
+jist:Ahmet+Soylu rdf:label "Ahmet Soylu" .
 
-<https://lod4all.github.io/91> dc:identifier "91" ;
-	dc:creator <https://lod4all.github.io/Martin+Giese> .
+jist:91 dc:identifier "91" ;
+	dc:creator jist:Martin+Giese .
 
-<https://lod4all.github.io/Martin+Giese> rdf:label "Martin Giese" .
+jist:Martin+Giese rdf:label "Martin Giese" .
 
-<https://lod4all.github.io/91> dc:identifier "91" ;
-	dc:creator <https://lod4all.github.io/Arild+Waaler> .
+jist:91 dc:identifier "91" ;
+	dc:creator jist:Arild+Waaler .
 
-<https://lod4all.github.io/Arild+Waaler> rdf:label "Arild Waaler" .
+jist:Arild+Waaler rdf:label "Arild Waaler" .
 
-<https://lod4all.github.io/91> dc:identifier "91" ;
-	dc:creator <https://lod4all.github.io/Evgeny+Kharlamov> .
+jist:91 dc:identifier "91" ;
+	dc:creator jist:Evgeny+Kharlamov .
 
-<https://lod4all.github.io/Evgeny+Kharlamov> rdf:label "Evgeny Kharlamov" .
+jist:Evgeny+Kharlamov rdf:label "Evgeny Kharlamov" .
 
-<https://lod4all.github.io/14> dc:identifier "14" ;
+jist:14 dc:identifier "14" ;
 	dc:subject "Special Session on Government Open Data" ;
-	dc:creator <https://lod4all.github.io/Junichi+Matsuda> ;
+	dc:creator jist:Junichi+Matsuda ;
 	dc:title "Publication of Statistical Linked Open data in Japan" .
 
-<https://lod4all.github.io/Junichi+Matsuda> rdf:label "Junichi Matsuda" .
+jist:Junichi+Matsuda rdf:label "Junichi Matsuda" .
 
-<https://lod4all.github.io/14> dc:identifier "14" ;
-	dc:creator <https://lod4all.github.io/Yu+Asano> .
+jist:14 dc:identifier "14" ;
+	dc:creator jist:Yu+Asano .
 
-<https://lod4all.github.io/Yu+Asano> rdf:label "Yu Asano" .
+jist:Yu+Asano rdf:label "Yu Asano" .
 
-<https://lod4all.github.io/14> dc:identifier "14" ;
-	dc:creator <https://lod4all.github.io/Dan+Yamamoto> .
+jist:14 dc:identifier "14" ;
+	dc:creator jist:Dan+Yamamoto .
 
-<https://lod4all.github.io/Dan+Yamamoto> rdf:label "Dan Yamamoto" .
+jist:Dan+Yamamoto rdf:label "Dan Yamamoto" .
 
-<https://lod4all.github.io/14> dc:identifier "14" ;
-	dc:creator <https://lod4all.github.io/Akie+Mizutani> .
+jist:14 dc:identifier "14" ;
+	dc:creator jist:Akie+Mizutani .
 
-<https://lod4all.github.io/Akie+Mizutani> rdf:label "Akie Mizutani" .
+jist:Akie+Mizutani rdf:label "Akie Mizutani" .
 
-<https://lod4all.github.io/14> dc:identifier "14" ;
-	dc:creator <https://lod4all.github.io/Hideaki+Takeda> .
+jist:14 dc:identifier "14" ;
+	dc:creator jist:Hideaki+Takeda .
 
-<https://lod4all.github.io/Hideaki+Takeda> rdf:label "Hideaki Takeda" .
+jist:Hideaki+Takeda rdf:label "Hideaki Takeda" .
 
-<https://lod4all.github.io/14> dc:identifier "14" ;
-	dc:creator <https://lod4all.github.io/Ikki+Ohmukai> .
+jist:14 dc:identifier "14" ;
+	dc:creator jist:Ikki+Ohmukai .
 
-<https://lod4all.github.io/Ikki+Ohmukai> rdf:label "Ikki Ohmukai" .
+jist:Ikki+Ohmukai rdf:label "Ikki Ohmukai" .
 
-<https://lod4all.github.io/14> dc:identifier "14" ;
-	dc:creator <https://lod4all.github.io/Seiji+Koide> .
+jist:14 dc:identifier "14" ;
+	dc:creator jist:Seiji+Koide .
 
-<https://lod4all.github.io/Seiji+Koide> rdf:label "Seiji Koide" .
+jist:Seiji+Koide rdf:label "Seiji Koide" .
 
-<https://lod4all.github.io/14> dc:identifier "14" ;
-	dc:creator <https://lod4all.github.io/Fumihiro+Kato> .
+jist:14 dc:identifier "14" ;
+	dc:creator jist:Fumihiro+Kato .
 
-<https://lod4all.github.io/Fumihiro+Kato> rdf:label "Fumihiro Kato" .
+jist:Fumihiro+Kato rdf:label "Fumihiro Kato" .
 
-<https://lod4all.github.io/14> dc:identifier "14" ;
-	dc:creator <https://lod4all.github.io/Hiromu+Harada> .
+jist:14 dc:identifier "14" ;
+	dc:creator jist:Hiromu+Harada .
 
-<https://lod4all.github.io/Hiromu+Harada> rdf:label "Hiromu Harada" .
+jist:Hiromu+Harada rdf:label "Hiromu Harada" .
 
-<https://lod4all.github.io/14> dc:identifier "14" ;
-	dc:creator <https://lod4all.github.io/Shoki+Nishimura> .
+jist:14 dc:identifier "14" ;
+	dc:creator jist:Shoki+Nishimura .
 
-<https://lod4all.github.io/Shoki+Nishimura> rdf:label "Shoki Nishimura" .
+jist:Shoki+Nishimura rdf:label "Shoki Nishimura" .
 
-<https://lod4all.github.io/15> dc:identifier "15" ;
+jist:15 dc:identifier "15" ;
 	dc:subject "Special Session on Government Open Data" ;
-	dc:creator <https://lod4all.github.io/Sungmin+Joo> ;
+	dc:creator jist:Sungmin+Joo ;
 	dc:title "Building the Core Vocabulary of Crop Names to Integrate the Vocabularies by Different Government Agencies" .
 
-<https://lod4all.github.io/Sungmin+Joo> rdf:label "Sungmin Joo" .
+jist:Sungmin+Joo rdf:label "Sungmin Joo" .
 
-<https://lod4all.github.io/15> dc:identifier "15" ;
-	dc:creator <https://lod4all.github.io/Hideaki+Takeda> .
+jist:15 dc:identifier "15" ;
+	dc:creator jist:Hideaki+Takeda .
 
-<https://lod4all.github.io/Hideaki+Takeda> rdf:label "Hideaki Takeda" .
+jist:Hideaki+Takeda rdf:label "Hideaki Takeda" .
 
-<https://lod4all.github.io/15> dc:identifier "15" ;
-	dc:creator <https://lod4all.github.io/Akane+Takezaki> .
+jist:15 dc:identifier "15" ;
+	dc:creator jist:Akane+Takezaki .
 
-<https://lod4all.github.io/Akane+Takezaki> rdf:label "Akane Takezaki" .
+jist:Akane+Takezaki rdf:label "Akane Takezaki" .
 
-<https://lod4all.github.io/15> dc:identifier "15" ;
-	dc:creator <https://lod4all.github.io/Tomokazu+Yoshida> .
+jist:15 dc:identifier "15" ;
+	dc:creator jist:Tomokazu+Yoshida .
 
-<https://lod4all.github.io/Tomokazu+Yoshida> rdf:label "Tomokazu Yoshida" .
+jist:Tomokazu+Yoshida rdf:label "Tomokazu Yoshida" .
 
-<https://lod4all.github.io/26> dc:identifier "26" ;
+jist:26 dc:identifier "26" ;
 	dc:subject "Special Session on Government Open Data" ;
-	dc:creator <https://lod4all.github.io/Fumihiro+Kato> ;
+	dc:creator jist:Fumihiro+Kato ;
 	dc:title "IMI: A Common Vocabulary Framework for Open Government Data" .
 
-<https://lod4all.github.io/Fumihiro+Kato> rdf:label "Fumihiro Kato" .
+jist:Fumihiro+Kato rdf:label "Fumihiro Kato" .
 
-<https://lod4all.github.io/26> dc:identifier "26" ;
-	dc:creator <https://lod4all.github.io/Hideaki+Takeda> .
+jist:26 dc:identifier "26" ;
+	dc:creator jist:Hideaki+Takeda .
 
-<https://lod4all.github.io/Hideaki+Takeda> rdf:label "Hideaki Takeda" .
+jist:Hideaki+Takeda rdf:label "Hideaki Takeda" .
 
-<https://lod4all.github.io/26> dc:identifier "26" ;
-	dc:creator <https://lod4all.github.io/Shuichi+Tashiro> .
+jist:26 dc:identifier "26" ;
+	dc:creator jist:Shuichi+Tashiro .
 
-<https://lod4all.github.io/Shuichi+Tashiro> rdf:label "Shuichi Tashiro" .
+jist:Shuichi+Tashiro rdf:label "Shuichi Tashiro" .
 
-<https://lod4all.github.io/26> dc:identifier "26" ;
-	dc:creator <https://lod4all.github.io/Kenji+Hiramoto> .
+jist:26 dc:identifier "26" ;
+	dc:creator jist:Kenji+Hiramoto .
 
-<https://lod4all.github.io/Kenji+Hiramoto> rdf:label "Kenji Hiramoto" .
+jist:Kenji+Hiramoto rdf:label "Kenji Hiramoto" .
 
-<https://lod4all.github.io/26> dc:identifier "26" ;
-	dc:creator <https://lod4all.github.io/Yuzo+Matsuzawa> .
+jist:26 dc:identifier "26" ;
+	dc:creator jist:Yuzo+Matsuzawa .
 
-<https://lod4all.github.io/Yuzo+Matsuzawa> rdf:label "Yuzo Matsuzawa" .
+jist:Yuzo+Matsuzawa rdf:label "Yuzo Matsuzawa" .
 
-<https://lod4all.github.io/35> dc:identifier "35" ;
+jist:35 dc:identifier "35" ;
 	dc:subject "Special Session on Government Open Data" ;
-	dc:creator <https://lod4all.github.io/Punnawit+Budsapawanich> ;
+	dc:creator jist:Punnawit+Budsapawanich ;
 	dc:title "A Conceptual Framework for Linking Open Government Data based on Geolocation: A Case Study of Thailand" .
 
-<https://lod4all.github.io/Punnawit+Budsapawanich> rdf:label "Punnawit Budsapawanich" .
+jist:Punnawit+Budsapawanich rdf:label "Punnawit Budsapawanich" .
 
-<https://lod4all.github.io/35> dc:identifier "35" ;
-	dc:creator <https://lod4all.github.io/Chutiporn+Anutariya> .
+jist:35 dc:identifier "35" ;
+	dc:creator jist:Chutiporn+Anutariya .
 
-<https://lod4all.github.io/Chutiporn+Anutariya> rdf:label "Chutiporn Anutariya" .
+jist:Chutiporn+Anutariya rdf:label "Chutiporn Anutariya" .
 
-<https://lod4all.github.io/35> dc:identifier "35" ;
-	dc:creator <https://lod4all.github.io/Choochart+Haruechaiyasak> .
+jist:35 dc:identifier "35" ;
+	dc:creator jist:Choochart+Haruechaiyasak .
 
-<https://lod4all.github.io/Choochart+Haruechaiyasak> rdf:label "Choochart Haruechaiyasak" .
+jist:Choochart+Haruechaiyasak rdf:label "Choochart Haruechaiyasak" .
 
-<https://lod4all.github.io/48> dc:identifier "48" ;
+jist:48 dc:identifier "48" ;
 	dc:subject "Special Session on Government Open Data" ;
-	dc:creator <https://lod4all.github.io/Dongpo+Deng> ;
+	dc:creator jist:Dongpo+Deng ;
 	dc:title "Construction and Reuse of Linked Agriculture Data: An Experience of Taiwan Government Open Data" .
 
-<https://lod4all.github.io/Dongpo+Deng> rdf:label "Dongpo Deng" .
+jist:Dongpo+Deng rdf:label "Dongpo Deng" .
 
-<https://lod4all.github.io/48> dc:identifier "48" ;
-	dc:creator <https://lod4all.github.io/Guan-Shuo+Mai> .
+jist:48 dc:identifier "48" ;
+	dc:creator jist:Guan-Shuo+Mai .
 
-<https://lod4all.github.io/Guan-Shuo+Mai> rdf:label "Guan-Shuo Mai" .
+jist:Guan-Shuo+Mai rdf:label "Guan-Shuo Mai" .
 
-<https://lod4all.github.io/48> dc:identifier "48" ;
-	dc:creator <https://lod4all.github.io/Steven+Shiau> .
+jist:48 dc:identifier "48" ;
+	dc:creator jist:Steven+Shiau .
 
-<https://lod4all.github.io/Steven+Shiau> rdf:label "Steven Shiau" .
+jist:Steven+Shiau rdf:label "Steven Shiau" .
 
-<https://lod4all.github.io/21> dc:identifier "21" ;
+jist:21 dc:identifier "21" ;
 	dc:subject "Special Session on Semantic Web for Life Sciences" ;
-	dc:creator <https://lod4all.github.io/Tatsuya+Kushida> ;
+	dc:creator jist:Tatsuya+Kushida ;
 	dc:title "Prediction and Reasoning of Functions, Roles, and Applications of Chemicals Using Linked Open Data and Ontologies" .
 
-<https://lod4all.github.io/Tatsuya+Kushida> rdf:label "Tatsuya Kushida" .
+jist:Tatsuya+Kushida rdf:label "Tatsuya Kushida" .
 
-<https://lod4all.github.io/21> dc:identifier "21" ;
-	dc:creator <https://lod4all.github.io/Kouji+Kozaki> .
+jist:21 dc:identifier "21" ;
+	dc:creator jist:Kouji+Kozaki .
 
-<https://lod4all.github.io/Kouji+Kozaki> rdf:label "Kouji Kozaki" .
+jist:Kouji+Kozaki rdf:label "Kouji Kozaki" .
 
-<https://lod4all.github.io/21> dc:identifier "21" ;
-	dc:creator <https://lod4all.github.io/Takahiro+Kawamura> .
+jist:21 dc:identifier "21" ;
+	dc:creator jist:Takahiro+Kawamura .
 
-<https://lod4all.github.io/Takahiro+Kawamura> rdf:label "Takahiro Kawamura" .
+jist:Takahiro+Kawamura rdf:label "Takahiro Kawamura" .
 
-<https://lod4all.github.io/21> dc:identifier "21" ;
-	dc:creator <https://lod4all.github.io/Yuka+Tateisi> .
+jist:21 dc:identifier "21" ;
+	dc:creator jist:Yuka+Tateisi .
 
-<https://lod4all.github.io/Yuka+Tateisi> rdf:label "Yuka Tateisi" .
+jist:Yuka+Tateisi rdf:label "Yuka Tateisi" .
 
-<https://lod4all.github.io/21> dc:identifier "21" ;
-	dc:creator <https://lod4all.github.io/Yasunori+Yamamoto> .
+jist:21 dc:identifier "21" ;
+	dc:creator jist:Yasunori+Yamamoto .
 
-<https://lod4all.github.io/Yasunori+Yamamoto> rdf:label "Yasunori Yamamoto" .
+jist:Yasunori+Yamamoto rdf:label "Yasunori Yamamoto" .
 
-<https://lod4all.github.io/21> dc:identifier "21" ;
-	dc:creator <https://lod4all.github.io/Toshihisa+Takagi> .
+jist:21 dc:identifier "21" ;
+	dc:creator jist:Toshihisa+Takagi .
 
-<https://lod4all.github.io/Toshihisa+Takagi> rdf:label "Toshihisa Takagi" .
+jist:Toshihisa+Takagi rdf:label "Toshihisa Takagi" .
 
-<https://lod4all.github.io/31> dc:identifier "31" ;
+jist:31 dc:identifier "31" ;
 	dc:subject "Special Session on Semantic Web for Life Sciences" ;
-	dc:creator <https://lod4all.github.io/Junho+Park> ;
+	dc:creator jist:Junho+Park ;
 	dc:title "Integrated semantic model for complex disease network (Short Paper)" .
 
-<https://lod4all.github.io/Junho+Park> rdf:label "Junho Park" .
+jist:Junho+Park rdf:label "Junho Park" .
 
-<https://lod4all.github.io/31> dc:identifier "31" ;
-	dc:creator <https://lod4all.github.io/Sungkwon+Yang> .
+jist:31 dc:identifier "31" ;
+	dc:creator jist:Sungkwon+Yang .
 
-<https://lod4all.github.io/Sungkwon+Yang> rdf:label "Sungkwon Yang" .
+jist:Sungkwon+Yang rdf:label "Sungkwon Yang" .
 
-<https://lod4all.github.io/31> dc:identifier "31" ;
-	dc:creator <https://lod4all.github.io/Hong-Gee+Kim> .
+jist:31 dc:identifier "31" ;
+	dc:creator jist:Hong-Gee+Kim .
 
-<https://lod4all.github.io/Hong-Gee+Kim> rdf:label "Hong-Gee Kim" .
+jist:Hong-Gee+Kim rdf:label "Hong-Gee Kim" .
 
-<https://lod4all.github.io/53> dc:identifier "53" ;
+jist:53 dc:identifier "53" ;
 	dc:subject "Special Session on Semantic Web for Life Sciences" ;
-	dc:creator <https://lod4all.github.io/Atsuko+Yamaguchi> ;
+	dc:creator jist:Atsuko+Yamaguchi ;
 	dc:title "Implementing LOD Surfer as a Search System for the Annotation of Multiple Protein Sequence Alignment (Short Paper)" .
 
-<https://lod4all.github.io/Atsuko+Yamaguchi> rdf:label "Atsuko Yamaguchi" .
+jist:Atsuko+Yamaguchi rdf:label "Atsuko Yamaguchi" .
 
-<https://lod4all.github.io/53> dc:identifier "53" ;
-	dc:creator <https://lod4all.github.io/Hiroyuki+Toh> .
+jist:53 dc:identifier "53" ;
+	dc:creator jist:Hiroyuki+Toh .
 
-<https://lod4all.github.io/Hiroyuki+Toh> rdf:label "Hiroyuki Toh" .
+jist:Hiroyuki+Toh rdf:label "Hiroyuki Toh" .
 
-<https://lod4all.github.io/78> dc:identifier "78" ;
+jist:78 dc:identifier "78" ;
 	dc:subject "Special Session on Semantic Web for Life Sciences" ;
-	dc:creator <https://lod4all.github.io/Sung+Min+Yang> ;
+	dc:creator jist:Sung+Min+Yang ;
 	dc:title "Semantic Navigation of disease-specific Pathways: The case of Non-small cell lung cancer(NSCLC)" .
 
-<https://lod4all.github.io/Sung+Min+Yang> rdf:label "Sung Min Yang" .
+jist:Sung+Min+Yang rdf:label "Sung Min Yang" .
 
-<https://lod4all.github.io/78> dc:identifier "78" ;
-	dc:creator <https://lod4all.github.io/Hong-Gee+Kim> .
+jist:78 dc:identifier "78" ;
+	dc:creator jist:Hong-Gee+Kim .
 
-<https://lod4all.github.io/Hong-Gee+Kim> rdf:label "Hong-Gee Kim" .
+jist:Hong-Gee+Kim rdf:label "Hong-Gee Kim" .
