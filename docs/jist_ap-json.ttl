@@ -1,6 +1,6 @@
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
-@prefix jist: https://lod4all.github.io/jist2018-tutorial/jist_ap-json.ttl#> .
+@prefix jist: <https://lod4all.github.io/jist2018-tutorial/jist_ap-json.ttl#> .
 
 jist:9 dc:identifier "9" ;
 	dc:subject "Research Track" ;
